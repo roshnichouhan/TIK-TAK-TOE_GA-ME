@@ -25,7 +25,7 @@ JavaScript – Game logic and interactivity
 
 Clone this repository
 
-git clone https://github.com/yourusername/tic-tac-toe.git
+git clone https://github.com/roshnichouhan/TIK-TAK-TOE_GA-ME.git
 
 
 Open 
